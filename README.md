@@ -30,25 +30,7 @@ The goal is to:
 ---
 
 ## 📁 Project Structure
-
-
----
-
-## 📊 Sample Input Format (`sales_history.csv`)
-
-| date       | product_id | units | price | promo_flag |
-|------------|------------|-------|-------|------------|
-| 2023-01-01 | A1001      | 120   | 19.99 | 1          |
-| 2023-01-02 | A1001      | 105   | 19.99 | 0          |
-| 2023-01-01 | B2011      | 60    | 14.50 | 1          |
-
-- `date`: sales date (YYYY-MM-DD)
-- `product_id`: unique identifier for each product
-- `units`: units sold on that day (target)
-- `price`: unit price for the product
-- `promo_flag`: binary indicator (1 if promotional activity was active)
-
----
+_____________________________
 
 ## 📦 Installation
 
